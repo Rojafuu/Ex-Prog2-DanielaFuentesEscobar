@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Mediciones</string>
+    <string name="btn_txt_guardarMedicion">Agregar Nueva Medicion</string>
+</resources>
